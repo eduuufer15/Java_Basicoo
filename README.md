@@ -2,7 +2,7 @@
 
 ## 🚀 Introducción
 
-Este repositorio contiene la implementación de un proyecto en **Java** centrado en la **Programación Orientada a Objetos (POO)**. El objetivo de este proyecto es gestionar operaciones aritméticas básicas, trabajar con operadores, salidas y formatos de texto utilizando clases. Las clases creadas permiten representar y manejar estas operaciones de manera eficiente.
+Este repositorio contiene la implementación de un proyecto en **Java** centrado en **Java Básico**. El objetivo de este proyecto es gestionar operaciones aritméticas básicas, trabajar con operadores, salidas y formatos de texto utilizando clases. Las clases creadas permiten representar y manejar estas operaciones de manera eficiente.
 
 ### ¿Por qué es útil?
 
