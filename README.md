@@ -26,7 +26,7 @@ Este proyecto es útil para comprender y practicar los conceptos fundamentales d
 1. **Clona el repositorio**:
    - Utiliza el siguiente comando para clonar el repositorio:
      ```bash
-     git clone https://github.com/tuusuario/Java_Basicoo.git
+     git clone https://github.com/eduuufer15/Java_Basicoo.git
      ```
 
 2. **Abre el proyecto** en tu IDE favorito:
